@@ -14,7 +14,7 @@ public class Libros_act extends AppCompatActivity {
     private Spinner spn;
     private TextView tv;
     private EditText et1, et2;
-    private String[] precios = new String[]{"5000", "12000", "25000", "30000", "32000","150000"};
+    private String[] precios = new String[]{"5000", "12000", "25000", "30000", "32000","150000", "180000"};
 
     // nuevos precios para futuros libros
 
